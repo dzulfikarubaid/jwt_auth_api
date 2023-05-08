@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-b=*#)wii5l+33@23w9ek61cnpks47zyn(l-54x$es)u^(i#j_y'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 # if DEBUG:
 #     import mimetypes
 #     mimetypes.add_type("application/javascript", ".js", True)
